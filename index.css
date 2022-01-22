@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main-section{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    flex-direction: row;
+}
+
+#header{
+    display:block
+}
+
+:root{
+  
+    --dark-content : rgba(0, 0, 0, 0.849);
+    --text-white : rgba(255, 255, 255, 0.836);
+}
+
+.dark-theme{
+    
+    --dark-content : rgba(255, 255, 255, 0.63);
+    --text-white:black;
+}
+
+body{
+    background-color: var(--dark-content);
+    max-height:100vh;
+}
+
+#dark{
+    width:3vh
+}
+
+*{
+    color:var(--text-white)
+}
+
+#brand{
+    color:var(--text-white);
+    font-size:3vh;
+}

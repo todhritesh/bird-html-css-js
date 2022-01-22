@@ -1,0 +1,81 @@
+{
+    "Migratory":[
+        {
+            "name":"Asiatic Sparrow Hawk",
+            "category":"Carnivorous",
+            "location":"Myanmar"
+        },
+        {
+            "name":"Blue Throat",
+            "category":"Carnivorous",
+            "location":"North Africa"
+        },
+        {
+            "name":"Hoatzin",
+            "category":"Herbivorous",
+            "location":"Amazon"
+        },
+        {
+            "name":"Siberian Crane",
+            "category":"Omnivorous",
+            "location":"Russia"
+        },
+        {
+            "name":"Great White Pelican",
+            "category":"Omnivorous",
+            "location":"Eastern Europe"
+        },
+        {
+            "name":"Greater Hamingo",
+            "category":"Omnivorous",
+            "location":"Indian Subcontinent"
+        }
+    ],
+    "Non-Migratory":[
+        {
+            "name":"White Throated Kingfisher",
+            "category":"Carnivorous",
+            "location":"Asia"
+        },
+        {
+            "name":"Grey Chinned MInivet",
+            "category":"Carnivorous",
+            "location":"Asia"
+        },
+        {
+            "name":"White Throated Kingfisher",
+            "category":"Carnivorous",
+            "location":"China"
+        },
+        {
+            "name":"Spotted Owlets",
+            "category":"Herbivorous",
+            "location":"West Bengal"
+        },
+        {
+            "name":"Speckled Mousebird",
+            "category":"Herbivorous",
+            "location":"Tamjanai"
+        },
+        {
+            "name":"Northern Cardinal",
+            "category":"Herbivorous",
+            "location":"United States"
+        },
+        {
+            "name":"Rock pigeon",
+            "category":"Omnivorous",
+            "location":"South Sahara"
+        },
+        {
+            "name":"House Sparrow",
+            "category":"Omnivorous",
+            "location":"West Bengal"
+        },
+        {
+            "name":"D.Arnaudi Barbet",
+            "category":"Omnivorous",
+            "location":"East Africa"
+        }
+    ]
+}
